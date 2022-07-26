@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharath N Chittaragi !
 - 👀 I’m interested in developing the best software tools in the world !
-- 🌱 I’m currently learning Java Full Stack Technologies
+- 🌱 I’m currently learning Microsoft Dynamics 365 Finance & Operations
 - 📫 Reach me at: cnsharath14@gmail.com
 
 <!---
